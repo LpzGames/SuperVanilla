@@ -1,4 +1,21 @@
-# SuperVanilla V1.1
+# SuperVanilla V1.1 (Personalized Version)
+
+> [!IMPORTANT]
+> **Esta es una versión personalizada.**
+> El repositorio base y original pertenece a [AoC-Gamers](https://github.com/AoC-Gamers/supervanilla).
+> He realizado ajustes específicos de configuración y plugins para adaptarlos a las necesidades de mi servidor el cual está pensado en usarse
+para partidas públicas random, los cambios son:
+> - Se habilitó sólo 4 botiquines y 2 píldoras por mapa.
+> - Se extendió el tiempo de spawn de los infectados a 18 seg.
+> - Se habilitó los plugins 'playerjoinMessage' y 'advertisements'.
+> - Se desactivó el plugin 'autopause' el cual pausaba la partida cuando un jugador se crasheaba.
+> - Se desactivó el plugin 'lerpmonitor' el cual te mandaba a espectador si usabas lerps 100.
+> - Se desactivó la obligación de dar !ready en cada mapa.
+> - Se desactivó el poder disparar desde las escaleras.
+> - Se desactivó la restricción que expulsaba a los jugadores que tenian habilitado el comando '+mat_hdr_level 0'.
+
+---
+
 [EN] [translation](https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/AoC-Gamers/supervanilla)
 
 SuperVanilla es una configuración competitiva para Left 4 Dead 2 que ajusta varios aspectos del juego para hacerlo más equilibrado y divertido.
